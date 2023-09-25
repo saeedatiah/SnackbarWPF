@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar_MarkupCompile.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\bin\Debug\net7.0-windows\snackbar.deps.json
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\bin\Debug\net7.0-windows\snackbar.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\bin\Debug\net7.0-windows\snackbar.pdb
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar_MarkupCompile.lref
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\Theme\snackbar.baml
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.g.resources
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.AssemblyInfo.cs
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\refint\snackbar.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\snackbar.pdb
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SnackbarDemo\snackbar\obj\Debug\net7.0-windows\ref\snackbar.dll

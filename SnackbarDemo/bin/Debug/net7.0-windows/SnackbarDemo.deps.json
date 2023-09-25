@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SnackbarDemo/1.0.0": {
+        "dependencies": {
+          "snackbar": "1.0.0"
+        },
+        "runtime": {
+          "SnackbarDemo.dll": {}
+        }
+      },
+      "snackbar/1.0.0": {
+        "runtime": {
+          "snackbar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnackbarDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "snackbar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
